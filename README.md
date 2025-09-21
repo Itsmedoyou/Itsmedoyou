@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saurabh
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning dsa and web dev
+- 🌱 I’m currently learning DSA and Developement
 - 💞️ I’m looking to collaborate on my project
 - 📫 How to reach me saurabhbuye@gmail.com
 
