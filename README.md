@@ -1,6 +1,6 @@
   👋 Hi, I’m Saurabh Buye
 
-- 👀 I’m passionate about Software Development and solving challenging problems.  
+- 👀 I’m Software Developer passionate about solving challenging problems.  
 - 🌱 I’m currently honing my skills in DSA, React.js, Node.js, MongoDB, Docker, Kubernetes, and Cloud Deployment.  
 - 💻 I’ve built projects like:
   - PeerHub – A full-stack MERN platform with real-time collaboration, admin panel, and AWS deployment.  
@@ -12,8 +12,8 @@
 
   🛠️ Skills
   Languages: JavaScript, C++, Python, Java, SQL  
-  Frontend: React.js, HTML, CSS, Material UI  
-  Backend: Node.js, Express.js, REST/GraphQL APIs, JWT, WebSockets  
+  Frontend: Angular, React.js, HTML, CSS, Material UI  
+  Backend: Node.js, Express.js,Fastapi, REST/GraphQL APIs, JWT, WebSockets  
   Databases & Caching: MongoDB, Redis  
   DevOps & Cloud: Docker, Kubernetes, AWS (EC2, S3), Heroku, CI/CD  
   Tools: Git, GitHub, VS Code  
