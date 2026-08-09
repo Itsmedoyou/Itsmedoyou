@@ -1,7 +1,7 @@
   👋 Hi, I’m Saurabh Buye
 
 - 👀 I’m Software Developer passionate about solving challenging problems.  
-- 🌱 I’m currently honing my skills in DSA, React.js, Node.js, MongoDB, Docker, Kubernetes, and Cloud Deployment.  
+- 🌱 I’m currently honing my skills in DSA,Python, React.js, Node.js, MongoDB, Docker, Kubernetes, and Cloud Deployment.  
 - 💻 I’ve built projects like:
   - PeerHub – A full-stack MERN platform with real-time collaboration, admin panel, and AWS deployment.  
   - Smart FAQ Bot (RAG) – An AI-powered chatbot integrating semantic search and OpenAI API.  
