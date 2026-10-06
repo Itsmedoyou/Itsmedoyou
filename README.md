@@ -5,7 +5,7 @@
 - 💻 I’ve built projects like:
   - PeerHub – A full-stack MERN platform with real-time collaboration, admin panel, and AWS deployment.  
   - Smart FAQ Bot (RAG) – An AI-powered chatbot integrating semantic search and OpenAI API.  
-- 💞️ I’m looking to collaborate on open-source projects and innovative web applications.  
+-  I’m looking to collaborate on open-source projects and innovative web applications.  
 - 📫 Reach me at: saurabhbuye@gmail.com
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/saurabhbuye/)
 
